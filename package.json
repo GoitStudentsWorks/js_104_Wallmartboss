@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-GrXJSTeam/",
+    "build": "vite build --base=/js_104_Wallmartboss/",
     "preview": "vite preview"
   },
   "devDependencies": {
